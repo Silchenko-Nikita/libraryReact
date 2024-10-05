@@ -1,0 +1,19 @@
+.cardItem {
+    border: 1px solid rgb(0, 0, 0);
+}
+
+.image {
+    border-left: 1px solid rgba(0, 0, 0, 0.51);
+    border-right: 1px solid rgba(0, 0, 0, 0.51);
+    border-bottom: 1px solid rgba(0, 0, 0, 0.51);
+}
+
+.description {
+    border-bottom: 1px solid rgb(0, 0, 0);
+    padding-bottom: 15px;
+}
+
+.price {
+    text-align: right;
+    padding-right: 15px;
+}
